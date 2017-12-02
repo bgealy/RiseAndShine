@@ -1,1 +1,1 @@
-# upon running program a webpage appears with multiple tabs
+# Upon running program, a webpage appears with multiple tabs.
