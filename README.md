@@ -4,7 +4,7 @@
 
 import webbrowser
 import time
-socialMediaUrls = ['https://www.facebook.com/', 'https://www.reddit.com/']
+socialMediaUrls = ['https://www.facebook.com/', 'https://www.reddit.com/'] <br />
 sportsNewsUrls = ['http://www.espn.com/', 'https://football.fantasysports.yahoo.com/']
 techNewsUrls = ['https://techcrunch.com/', 'https://www.theverge.com/tech']
 workStuffUrls = ['https://mail.google.com/mail/u/0/', 'https://mail.yahoo.com/']
